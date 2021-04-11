@@ -15,7 +15,8 @@ open a MinGW64 shell as administrator.
 
     mkdir testing
     cd testing
-    git clone _________________________________________
+    git clone https://github.com/LeighKorbel/pyinstaller_msys2_issue.git
+    cd pyinstaller_msys2_issue
 
 (5) Download PyInstaller using Python's pip package manager:
 
